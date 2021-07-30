@@ -8,9 +8,23 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tutostrucoscode/Bootstrap-Front-End.git"
+  },
+  "author": "Jose Pablo",
   "license": "ISC",
-    "devDependencies": {
+  "bugs": {
+    "url": "https://github.com/tutostrucoscode/Bootstrap-Front-End/issues"
+  },
+  "homepage": "https://github.com/tutostrucoscode/Bootstrap-Front-End#readme",
+
+  "devDependencies": {
     "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.2",
+    "jquery": "^3.6.0"
   }
 }
